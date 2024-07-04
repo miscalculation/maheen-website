@@ -30,7 +30,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: >
+    text: >+
       With over seven years of experience in the utilities industry, I possess a
       robust background in data mining, data analysis, and business process
       improvement. I hold a Master of Science in Information with a
@@ -45,7 +45,8 @@ sections:
       to expand my skills and knowledge.
 
 
-      ###### ![](/images/IMG_9478.jpg?nf_resize=fit\&w=300)
+      \<div style="text-align: center">![](/images/IMG_9478%20\(1\).jpg)\</div>
+
   - type: DividerSection
     styles:
       self:
