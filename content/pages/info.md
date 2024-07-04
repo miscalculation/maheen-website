@@ -31,8 +31,8 @@ sections:
       actions:
         justifyContent: flex-start
     text: >+
-      \<div style="text-align: center">With over seven years of experience in
-      the utilities industry, I possess a robust background in data mining, data
+      \<div style="text-align: right">With over seven years of experience in the
+      utilities industry, I possess a robust background in data mining, data
       analysis, and business process improvement. I hold a Master of Science in
       Information with a specialization in Big Data Analytics from the
       University of Michigan, Ann Arbor, earned in December 2020.I currently
