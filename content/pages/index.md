@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - type: HeroSection
     title: Welcome to my portfolio page!
-    subtitle: Data scientist and analyst.
+    subtitle: Data scientist and analyst. Turning complex data into actionable insights.
     actions:
       - type: Button
         label: Hire me
