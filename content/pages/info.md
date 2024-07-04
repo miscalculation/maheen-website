@@ -21,7 +21,7 @@ sections:
       to expand my skills and knowledge.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG_9478.jpg
       altText: Hero image
     styles:
       self:
