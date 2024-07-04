@@ -136,6 +136,9 @@ sections:
       - type: Label
         label: R
         url: ''
+      - type: Label
+        label: HTML
+        url: ''
   - type: DividerSection
     styles:
       self:
