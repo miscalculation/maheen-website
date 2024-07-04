@@ -8,7 +8,7 @@ sections:
     subtitle: Data scientist and analyst. Turning complex data into actionable insights.
     actions:
       - type: Button
-        label: Hire me
+        label: Projects
         altText: ''
         url: /
         showIcon: true
