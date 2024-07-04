@@ -128,7 +128,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: SQL
       - type: Label
         label: C++
       - type: Label
