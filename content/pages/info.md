@@ -43,12 +43,6 @@ sections:
       Detroit Institute of Arts to appreciate its diverse collections. In my
       spare time, I continue to pursue my passion for coding, constantly seeking
       to expand my skills and knowledge.
-    media:
-      type: ImageBlock
-      url: /images/IMG_9478.jpg
-      altText: Maheen
-      caption: ''
-      elementId: ''
   - type: DividerSection
     styles:
       self:
