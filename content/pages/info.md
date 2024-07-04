@@ -46,7 +46,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/IMG_9478.jpg
-      altText: altText of the image
+      altText: Maheen
       caption: Caption of the image
       elementId: ''
   - type: DividerSection
