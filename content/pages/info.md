@@ -30,18 +30,22 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    text: >+
-      \<div style="text-align: right">With over seven years of experience in the
-      utilities industry, I possess a robust background in data mining, data
-      analysis, and business process improvement. I hold a Master of Science in
-      Information with a specialization in Big Data Analytics from the
-      University of Michigan, Ann Arbor, earned in December 2020.I currently
-      reside in Detroit, Michigan, where I enjoy exploring the city's vibrant
-      culture. I'm a coffee enthusiast and frequently visit the Detroit
-      Institute of Arts to appreciate its diverse collections. In my spare time,
-      I continue to pursue my passion for coding, constantly seeking to expand
-      my skills and knowledge.![](/images/IMG_9478%20\(1\).jpg)\</div>
+    text: >
+      With over seven years of experience in the utilities industry, I possess a
+      robust background in data mining, data analysis, and business process
+      improvement. I hold a Master of Science in Information with a
+      specialization in Big Data Analytics from the University of Michigan, Ann
+      Arbor, earned in December 2020.
 
+
+      I currently reside in Detroit, Michigan, where I enjoy exploring the
+      city's vibrant culture. I'm a coffee enthusiast and frequently visit the
+      Detroit Institute of Arts to appreciate its diverse collections. In my
+      spare time, I continue to pursue my passion for coding, constantly seeking
+      to expand my skills and knowledge.
+
+
+      ![](/images/IMG_9478%20\(1\).jpg)
   - type: DividerSection
     styles:
       self:
