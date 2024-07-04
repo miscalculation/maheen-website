@@ -52,7 +52,7 @@ sections:
         justifyContent: flex-start
   - type: HeroSection
     title: Welcome to my portfolio page!
-    subtitle: Data scientist and analyst. Turning complex data into actionable insights.
+    subtitle: ''
     actions:
       - type: Button
         label: Hire me
