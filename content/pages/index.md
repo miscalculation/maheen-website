@@ -10,7 +10,7 @@ sections:
       - type: Button
         label: Projects
         altText: ''
-        url: /
+        url: /projects
         showIcon: true
         icon: arrowRight
         iconPosition: right
