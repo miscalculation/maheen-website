@@ -45,7 +45,7 @@ sections:
       to expand my skills and knowledge.
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/IMG_9478.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
