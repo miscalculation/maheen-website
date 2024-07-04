@@ -45,37 +45,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: HeroSection
-    title: About Me
-    subtitle: ''
-    actions: []
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    text: |
-
-
-      ![](/images/IMG_9478%20\(1\).jpg)
   - type: DividerSection
     styles:
       self:
