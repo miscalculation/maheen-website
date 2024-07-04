@@ -6,7 +6,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: ''
+    text: |
+      Hello
     media:
       type: ImageBlock
       url: /images/about.jpg
