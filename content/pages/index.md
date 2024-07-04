@@ -22,7 +22,7 @@ sections:
       altText: Maheen
       caption: Caption of the image
       elementId: ''
-    colors: colors-b
+    colors: colors-d
     backgroundSize: full
     elementId: ''
     styles:
