@@ -50,48 +50,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: HeroSection
-    title: Welcome to my portfolio page!
-    subtitle: ''
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    media:
-      type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
