@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - type: HeroSection
-    title: ''
+    title: Welcome to my portfolio page
     subtitle: Data scientist and analyst. Turning complex data into actionable insights.
     actions:
       - type: Button
