@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: About
-colors: colors-a
+colors: colors-c
 sections:
   - type: HeroSection
     title: About Me
