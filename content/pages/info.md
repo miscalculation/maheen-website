@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |
-      Hello
+      Hello, 
     media:
       type: ImageBlock
       url: /images/about.jpg
