@@ -18,7 +18,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/IMG_9478 (1).jpg
+      url: /images/IMG_9478.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
