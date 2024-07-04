@@ -9,16 +9,13 @@ sections:
     title: The Section Title
     subtitle: The section subtitle
     text: >+
-      \<div style="text-align: center">Sed ut perspiciatis unde omnis iste natus
+      \<div style="text-align: left">Sed ut perspiciatis unde omnis iste natus
       error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
       Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae
       vitae dicta sunt explicabo. Sed ut perspiciatis undeomnis iste natus error
       sit voluptatem accusantium doloremque laudantium, totam rem aperiam. Eaque
       ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-      dicta sunt explicabo.\</div>
-
-
-      \<div style="text-align: center">![](/images/IMG_9478%20\(1\).jpg)\</div>
+      dicta sunt explicabo.  ![](/images/IMG_9478%20\(1\).jpg). \</div>
 
     elementId: ''
     styles:
