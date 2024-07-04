@@ -45,9 +45,7 @@ sections:
       to expand my skills and knowledge.
 
 
-
-
-      ![](/images/IMG_9478.jpg)
+      ###### ![](/images/IMG_9478.jpg?nf_resize=fit\&w=3001)
   - type: DividerSection
     styles:
       self:
