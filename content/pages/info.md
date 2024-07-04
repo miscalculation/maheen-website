@@ -43,6 +43,12 @@ sections:
       Detroit Institute of Arts to appreciate its diverse collections. In my
       spare time, I continue to pursue my passion for coding, constantly seeking
       to expand my skills and knowledge.
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     styles:
       self:
