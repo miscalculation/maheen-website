@@ -67,7 +67,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/miscalculation'
         styles:
           self:
             textAlign: left
