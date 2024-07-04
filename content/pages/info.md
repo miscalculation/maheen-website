@@ -133,6 +133,9 @@ sections:
         label: C++
       - type: Label
         label: Swift
+      - type: Label
+        label: R
+        url: ''
   - type: DividerSection
     styles:
       self:
