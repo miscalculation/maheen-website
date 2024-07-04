@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 sections:
   - type: HeroSection
-    title: Data scientist and analyst. Turning complex data into actionable insights.
+    title: ''
     subtitle: >-
       This is my info—I'm sharing it all this with ya'll to impress you with all
       the hard work I've done in the past few years. Once you're impressed, you
