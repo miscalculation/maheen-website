@@ -19,7 +19,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/IMG_9480.jpg
-      altText: Hero image
+      altText: Maheen
       caption: Caption of the image
       elementId: ''
     colors: colors-c
