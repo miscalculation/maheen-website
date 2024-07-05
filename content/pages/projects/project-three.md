@@ -5,8 +5,8 @@ colors: colors-a
 date: '2022-01-22'
 client: ''
 description: >-
-  Determine if CitiBike is an affordable system or a luxury service through data
-  collection and visualization
+  Determined if CitiBike is an affordable system or a luxury service through
+  data collection and visualization.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
