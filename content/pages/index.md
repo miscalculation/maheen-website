@@ -95,6 +95,7 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/post-three.md
+      - content/pages/blog/post-five.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
