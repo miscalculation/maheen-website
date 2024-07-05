@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/citibike.png
-  altText: Project thumbnail image
+  altText: ''
 media:
   type: ImageBlock
   url: /images/bg3.jpg
