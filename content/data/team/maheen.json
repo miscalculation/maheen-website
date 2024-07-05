@@ -1,0 +1,14 @@
+{
+    "type": "Person",
+    "firstName": "Maheen",
+    "lastName": "Asghar",
+    "role": "Author",
+    "bio": "",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/IMG_9480.jpg",
+        "altText": "Person photo",
+        "caption": "Caption of the image",
+        "elementId": ""
+    }
+}
