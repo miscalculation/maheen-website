@@ -13,7 +13,7 @@ featuredImage:
   altText: Trump and obama
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/potus.jpeg
   altText: Project image
 ---
 
