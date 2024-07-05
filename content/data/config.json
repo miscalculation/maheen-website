@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/android-chrome-512x512.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -77,7 +77,7 @@
             "address": "Detroit, MI",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
