@@ -9,7 +9,7 @@ description: >-
   office.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/potus.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
