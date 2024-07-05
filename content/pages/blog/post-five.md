@@ -2,7 +2,7 @@
 type: PostLayout
 title: Blog posts coming soon...
 colors: colors-a
-date: '2024-05-02'
+date: '2024-07-05'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
