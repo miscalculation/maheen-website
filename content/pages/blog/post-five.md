@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Blog posts coming soon...
-colors: colors-a
+colors: colors-c
 date: '2024-07-05'
 excerpt: ''
 bottomSections:
