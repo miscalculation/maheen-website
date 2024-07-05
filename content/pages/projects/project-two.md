@@ -4,10 +4,7 @@ title: American Indian Household Income
 colors: colors-a
 date: '2020-05-01'
 client: ''
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: Visualization of data from the Opportunity Atlas.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
