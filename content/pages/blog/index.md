@@ -22,4 +22,5 @@ postFeed:
 styles:
   title:
     textAlign: left
+topSections: []
 ---
