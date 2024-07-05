@@ -7,7 +7,7 @@ client: ''
 description: Visualization of data from the Opportunity Atlas.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/household.jpeg
   altText: Project thumbnail image
 media:
   type: ImageBlock
