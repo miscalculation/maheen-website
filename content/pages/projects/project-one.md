@@ -10,7 +10,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/potus.jpeg
-  altText: Project thumbnail image
+  altText: Trump and obama
 media:
   type: ImageBlock
   url: /images/bg1.jpg
