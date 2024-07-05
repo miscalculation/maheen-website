@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: Blog Posts
 colors: colors-c
 postFeed:
   type: PostFeedSection
