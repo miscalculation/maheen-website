@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: CitiBike Analysis
 colors: colors-a
-date: ''
+date: '2022-05-22'
 client: ''
 description: >-
   Determined if CitiBike is an affordable system or a luxury service through
