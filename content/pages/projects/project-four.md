@@ -15,7 +15,7 @@ featuredImage:
   elementId: ''
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Screen Shot 2025-01-20 at 1.59.41 PM.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
