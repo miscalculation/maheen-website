@@ -20,4 +20,4 @@ media:
   caption: ''
   elementId: ''
 ---
-https\://haproxy-traffic-splitter/views/VideoGameSales\_17373991416240/Dashboard1?:language=en-US\&publish=yes&:sid=&:redirect=auth&:display\_count=n&:origin=viz\_share\_link
+[Tableau Dashboard](https://public.tableau.com/app/profile/maheen.asghar3706/viz/VideoGameSales_17373991416240/Dashboard1?publish=yes)
