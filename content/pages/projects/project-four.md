@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Tableau
-date: '2020-05-01'
+date: '2025-01-20'
 client: ''
 description: Video Game Genre Tableau
 bottomSections: []
