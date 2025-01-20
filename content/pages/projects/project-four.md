@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Tabl
+title: Tableau
 date: '2020-05-01'
 client: ''
 description: Visualization of data from the Opportunity Atlas.
