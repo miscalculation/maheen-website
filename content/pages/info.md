@@ -9,7 +9,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/IMG_9478.jpg
+      url: /images/IMG_9184.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
