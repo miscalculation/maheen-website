@@ -16,7 +16,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Screen Shot 2025-01-20 at 1.59.41 PM.png
-  altText: altText of the image
+  altText: ''
   caption: Caption of the image
   elementId: ''
 ---
