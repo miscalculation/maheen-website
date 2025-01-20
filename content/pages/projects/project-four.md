@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: American Indian Household Income
+title: Tabl
 date: '2020-05-01'
 client: ''
 description: Visualization of data from the Opportunity Atlas.
