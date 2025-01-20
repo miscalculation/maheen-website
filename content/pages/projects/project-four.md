@@ -7,6 +7,12 @@ description: Video Game Genre Tableau
 bottomSections: []
 metaTags: []
 colors: colors-a
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 <https://ai-income-vis.glitch.me/>
 
