@@ -10,7 +10,7 @@ colors: colors-a
 featuredImage:
   type: ImageBlock
   url: /images/Tableau-Symbol.png
-  altText: altText of the image
+  altText: ''
   caption: Caption of the image
   elementId: ''
 ---
