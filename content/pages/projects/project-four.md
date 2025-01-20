@@ -4,10 +4,6 @@ title: Tableau
 date: '2020-05-01'
 client: ''
 description: Video Game Genre Tableau
-media:
-  type: ImageBlock
-  url: /images/household.jpeg
-  altText: ''
 bottomSections: []
 metaTags: []
 colors: colors-a
