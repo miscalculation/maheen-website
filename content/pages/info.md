@@ -11,7 +11,7 @@ sections:
       type: ImageBlock
       url: /images/IMG_9184.jpg
       altText: ''
-      caption: Caption of the image
+      caption: ''
       elementId: ''
     colors: colors-b
     backgroundSize: full
