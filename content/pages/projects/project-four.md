@@ -11,7 +11,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Tableau-Symbol.png
   altText: ''
-  caption: Caption of the image
+  caption: ''
   elementId: ''
 ---
 <https://ai-income-vis.glitch.me/>
