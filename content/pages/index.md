@@ -58,8 +58,8 @@ sections:
     showReadMoreLink: true
     variant: variant-b
     projects:
-      - content/pages/projects/project-three.md
       - content/pages/projects/project-four.md
+      - content/pages/projects/project-three.md
     styles:
       self:
         height: auto
