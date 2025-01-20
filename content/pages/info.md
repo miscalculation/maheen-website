@@ -10,7 +10,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/IMG_9184.jpg
-      altText: Hero image
+      altText: ''
       caption: Caption of the image
       elementId: ''
     colors: colors-b
