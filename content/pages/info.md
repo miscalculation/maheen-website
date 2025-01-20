@@ -9,9 +9,9 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/IMG_9478.jpg
-      altText: Hero image
-      caption: Caption of the image
+      url: /images/IMG_9184.jpg
+      altText: ''
+      caption: ''
       elementId: ''
     colors: colors-b
     backgroundSize: full
