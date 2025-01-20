@@ -20,7 +20,7 @@ sections:
       type: ImageBlock
       url: /images/IMG_9480.jpg
       altText: Maheen
-      caption: Caption of the image
+      caption: ''
       elementId: ''
     colors: colors-b
     backgroundSize: full
