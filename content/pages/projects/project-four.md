@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Top College Restaurants: Metro Detroit vs. NYC College Towns'
+title: 'Top College Restaurants: Metro Detroit vs. NYC'
 date: '2025-01-20'
 client: ''
 description: >-
