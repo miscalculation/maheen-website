@@ -5,9 +5,9 @@ colors: colors-a
 date: '2020-05-01'
 client: ''
 description: >-
-  This project analyzes economic mobility among American Indians using
-  Opportunity Atlas data to explore the impact of childhood household income on
-  adult financial outcomes.
+  This project examines economic mobility among American Indians using
+  Opportunity Atlas data to assess how childhood household income affects adult
+  financial outcomes.
 featuredImage:
   type: ImageBlock
   url: /images/household.jpeg
