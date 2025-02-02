@@ -37,18 +37,18 @@ sections:
       actions:
         justifyContent: flex-start
     text: >
-      With over seven years of experience in the utilities industry, I possess a
-      robust background in data mining, data analysis, and business process
+      With over seven years of experience in the utilities industry, I bring a
+      strong foundation in data mining, data analysis, and business process
       improvement. I hold a Master of Science in Information with a
       specialization in Big Data Analytics from the University of Michigan, Ann
-      Arbor, earned in December 2020.
+      Arbor, which I earned in December 2020.
 
 
-      I currently reside in Detroit, Michigan, where I enjoy exploring the
-      city's vibrant culture. I'm a coffee enthusiast and frequently visit the
-      Detroit Institute of Arts to appreciate its diverse collections. In my
-      spare time, I continue to pursue my passion for coding, constantly seeking
-      to expand my skills and knowledge. 
+      Currently based in Detroit, Michigan, I enjoy immersing myself in the
+      city's vibrant culture. I’m a coffee enthusiast and love spending time at
+      the Detroit Institute of Arts, where I draw inspiration from its diverse
+      collections. In my free time, I pursue my passions for coding and sewing,
+      constantly seeking to expand my skills and creativity in both areas
   - type: DividerSection
     styles:
       self:
