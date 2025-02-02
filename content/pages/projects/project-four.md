@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Top College Restaurants: Metro Detroit vs. NYC College Towns'
+title: 'Top College Restaurants: Metro Detroit vs. NYC'
 date: '2025-01-20'
 client: ''
 description: >-
@@ -10,6 +10,12 @@ description: >-
 bottomSections: []
 metaTags: []
 colors: colors-a
+featuredImage:
+  type: ImageBlock
+  url: /images/1.png
+  altText: ''
+  caption: ''
+  elementId: ''
 ---
 University students love restaurants. Whether they’re too busy studying to cook dinner or have burnt the family’s ravioli recipe in their kitchens--restaurants have become one of the saving graces of a busy college student. Nearly half of college students dine off campus every day, with almost 58% visiting a quick-service restaurant and 57% going to a coffee shop once a
 1 week or more often.​
