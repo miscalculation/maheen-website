@@ -5,8 +5,8 @@ colors: colors-a
 date: '2020-05-01'
 client: ''
 description: >-
-  Using three types of different classifier, we predict whether Trump and
-  Obama's tweets are positive, neutral, or negative. 
+  Using three different types of classifiers, we predict whether Trump and
+  Obama's tweets are positive, neutral, or negative.
 featuredImage:
   type: ImageBlock
   url: /images/potus.jpeg
