@@ -4,7 +4,10 @@ title: American Indian Household Income
 colors: colors-a
 date: '2020-05-01'
 client: ''
-description: Visualization of data from the Opportunity Atlas.
+description: >-
+  This project analyzes economic mobility among American Indians using
+  Opportunity Atlas data to explore the impact of childhood household income on
+  adult financial outcomes.
 featuredImage:
   type: ImageBlock
   url: /images/household.jpeg
