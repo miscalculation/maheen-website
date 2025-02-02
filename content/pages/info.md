@@ -37,7 +37,7 @@ sections:
       actions:
         justifyContent: flex-start
     text: >
-      With over seven years of experience in the utilities industry, I bring a
+      With over seven years of experience in the utilities industry, I have a
       strong foundation in data mining, data analysis, and business process
       improvement. I hold a Master of Science in Information with a
       specialization in Big Data Analytics from the University of Michigan, Ann
