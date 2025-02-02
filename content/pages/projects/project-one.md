@@ -4,7 +4,9 @@ title: Sentiment Analysis of @POTUS
 colors: colors-a
 date: '2020-05-01'
 client: ''
-description: Sentiment analysis of Trump and Obama's tweets during their time in office.
+description: >-
+  Using three types of different classifier, we predict whether Trump and
+  Obama's tweets are positive, neutral, or negative. 
 featuredImage:
   type: ImageBlock
   url: /images/potus.jpeg
