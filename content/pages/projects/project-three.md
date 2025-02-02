@@ -5,8 +5,8 @@ colors: colors-a
 date: '2020-05-01'
 client: ''
 description: >-
-  Is CitiBike is an affordable system living up to its promise of equity with
-  reduced fare for low-income or a luxury service that predominantly serves
+  Is CitiBike an affordable and equitable transportation system with reduced
+  fares for low-income residents, or is it a luxury service primarily benefiting
   wealthy New Yorkers?
 featuredImage:
   type: ImageBlock
