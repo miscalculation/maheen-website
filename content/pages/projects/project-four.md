@@ -10,6 +10,12 @@ description: >-
 bottomSections: []
 metaTags: []
 colors: colors-a
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
 University students love restaurants. Whether they’re too busy studying to cook dinner or have burnt the family’s ravioli recipe in their kitchens--restaurants have become one of the saving graces of a busy college student. Nearly half of college students dine off campus every day, with almost 58% visiting a quick-service restaurant and 57% going to a coffee shop once a
 1 week or more often.​
