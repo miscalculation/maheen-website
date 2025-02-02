@@ -4,7 +4,9 @@ title: CitiBike Analysis
 colors: colors-a
 date: '2020-05-01'
 client: ''
-description: Is CitiBike is an affordable system or a luxury service?
+description: >-
+  Is CitiBike is an affordable system or a luxury service that predominantly
+  serves wealthy New Yorkers?
 featuredImage:
   type: ImageBlock
   url: /images/citibike.png
