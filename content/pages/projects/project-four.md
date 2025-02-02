@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Tableau
+title: 'Top College Restaurants: Metro Detroit vs. NYC College Towns'
 date: '2025-01-20'
 client: ''
 description: Video Game Genre Tableau
