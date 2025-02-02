@@ -5,8 +5,9 @@ colors: colors-a
 date: '2020-05-01'
 client: ''
 description: >-
-  Determined if CitiBike is an affordable system or a luxury service through
-  data collection and visualization.
+  Is CitiBike an affordable and equitable transportation system with reduced
+  fares for low-income residents, or is it a luxury service primarily benefiting
+  wealthy New Yorkers?
 featuredImage:
   type: ImageBlock
   url: /images/citibike.png
