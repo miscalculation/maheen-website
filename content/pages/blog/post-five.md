@@ -2,7 +2,7 @@
 type: PostLayout
 title: Blog posts coming soon...
 colors: colors-c
-date: '2025-01-20'
+date: '2025-02-02'
 excerpt: ''
 bottomSections:
   - elementId: ''
