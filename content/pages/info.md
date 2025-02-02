@@ -37,11 +37,11 @@ sections:
       actions:
         justifyContent: flex-start
     text: >
-      With over seven years of experience in the utilities industry, I possess a
-      robust background in data mining, data analysis, and business process
+      With over seven years of experience in the utilities industry, I bring a
+      strong foundation in data mining, data analysis, and business process
       improvement. I hold a Master of Science in Information with a
       specialization in Big Data Analytics from the University of Michigan, Ann
-      Arbor, earned in December 2020.
+      Arbor, which I earned in December 2020.
 
 
       Currently based in Detroit, Michigan, I enjoy immersing myself in the
