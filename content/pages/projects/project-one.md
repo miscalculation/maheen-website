@@ -23,3 +23,5 @@ Using machine learning, we created a sentiment analyzer that determines if tweet
 When looking at Trump versus Obama’s tweets, we found that Obama had a more even distribution of positive and neutral sentiment of tweets, while having very little negative sentiment tweets. Trump had a disproportionately higher number of positive sentiment tweets over the other categories.
 
 ![](/images/Obama_Trump.png)
+
+![](/images/671%20Poster%20Final.jpg)
