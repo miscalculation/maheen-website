@@ -10,11 +10,5 @@ description: >-
 bottomSections: []
 metaTags: []
 colors: colors-a
-featuredImage:
-  type: ImageBlock
-  url: /images/Tableau-Symbol.png
-  altText: ''
-  caption: ''
-  elementId: ''
 ---
 [Tableau Dashboard](https://public.tableau.com/app/profile/maheen.asghar3706/viz/VideoGameSales_17373991416240/Dashboard1?publish=yes)
