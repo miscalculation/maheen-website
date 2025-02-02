@@ -4,9 +4,7 @@ title: Sentiment Analysis of @POTUS
 colors: colors-a
 date: '2020-05-01'
 client: ''
-description: >-
-  Analyzed the sentiment of Trump and Obama's tweets during their time in
-  office.
+description: Sentiment analysis of Trump and Obama's tweets during their time in office.
 featuredImage:
   type: ImageBlock
   url: /images/potus.jpeg
