@@ -12,7 +12,7 @@ metaTags: []
 colors: colors-a
 featuredImage:
   type: ImageBlock
-  url: /images/4.png
+  url: /images/1.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
