@@ -4,9 +4,7 @@ title: CitiBike Analysis
 colors: colors-a
 date: '2020-05-01'
 client: ''
-description: >-
-  Determined if CitiBike is an affordable system or a luxury service through
-  data collection and visualization.
+description: Is CitiBike is an affordable system or a luxury service?
 featuredImage:
   type: ImageBlock
   url: /images/citibike.png
