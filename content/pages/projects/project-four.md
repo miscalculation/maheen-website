@@ -1,9 +1,6 @@
 ---
 type: ProjectLayout
-title: >-
-  How do restaurants that are most frequented by college students in the three
-  major college cities in Metro Detroit stack up against a college town like New
-  York, NY?
+title: Tableau
 date: '2025-01-20'
 client: ''
 description: Video Game Genre Tableau
