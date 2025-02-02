@@ -5,8 +5,8 @@ colors: colors-a
 date: '2020-05-01'
 client: ''
 description: >-
-  Analyzed the sentiment of Trump and Obama's tweets during their time in
-  office.
+  Using three different types of classifiers, we predict whether Trump and
+  Obama's tweets are positive, neutral, or negative.
 featuredImage:
   type: ImageBlock
   url: /images/potus.jpeg
@@ -18,9 +18,7 @@ media:
 ---
 <https://github.com/miscalculation/sentiment-analysis-potus>
 
-Using machine learning, we created a sentiment analyzer that determines if tweets carry positive, neutral, or negative sentiment. In addition, we evaluated time series and identify trends for local variations to more accurately assess Trump’s usual twitter sentiment vs Obama’s.
-
-When looking at Trump versus Obama’s tweets, we found that Obama had a more even distribution of positive and neutral sentiment of tweets, while having very little negative sentiment tweets. Trump had a disproportionately higher number of positive sentiment tweets over the other categories.
+In the past decade, there has been much interest in the area of sentiment analysis, especially with regards to tweets. In our research, we focus on analyzing and predicting the sentiment of the past two presidents, Donald Trump and Barack Obama. Using three types of different classifier, we predict whether a tweet is positive, neutral, or negative, and evaluate our models using the F1 score and accuracy measures. The dataset used for training our models was taken from data.world and included tweets spanning from 2009 to 2016, when Trump was elected president. We use these predicted tweets to conduct deseasonalized time series analysis on the frequency of tweets for each president to explore specific time periods and the majority tweet sentiment for each president, as well their overall sentiment. We find that the Logistic Regression was the best-performing in both evaluation measures, for both presidents. Also, Trump’s tweets tend to be mostly positive before 2015, after which they become mainly neutral, while Obama’s tweets maintain their predominantly neutral sentiment throughout this time period.
 
 ![](/images/Obama_Trump.png)
 
